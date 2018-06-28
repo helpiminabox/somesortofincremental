@@ -1,8 +1,8 @@
 .game-container {
+  max-width: 80%
 }
 
 .test-button {
   margin:auto;
-  max-width:50%
   background-color: DodgerBlue;
 }
