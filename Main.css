@@ -3,6 +3,6 @@
 
 .test-button {
   margin:auto;
-  width:50%
+  max-width:50%
   background-color: DodgerBlue;
 }
