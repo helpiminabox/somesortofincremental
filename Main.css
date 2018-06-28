@@ -1,5 +1,6 @@
 .game-container {
   display: flex;
+  background-color: DodgerBlue;
 }
 
 .test-button {
